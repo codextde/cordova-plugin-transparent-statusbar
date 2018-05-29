@@ -24,7 +24,7 @@
 			</feature>
 		</config-file>
 		
-		<source-file src="src/android/StatusbarTransparent.java" target-dir="src/net/ekuwang/cordova/plugin/statusbar" />
+		<source-file src="src/android/StatusbarTransparent.java" target-dir="src/com/cordova/plugin/transparentstatusbar" />
 	</platform>
 </plugin>   
     

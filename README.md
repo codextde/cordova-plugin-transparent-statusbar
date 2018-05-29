@@ -1,6 +1,6 @@
 cordova-plugin-statusbar
 ============================
- 
+#### FORKED FROM https://github.com/ekuwang/cordova-plugin-statusbar
 Enable or disable Android 4.4's translucent statusbar.
 
 Plugin for Cordova >= 3.0

@@ -1,4 +1,4 @@
-package net.ekuwang.cordova.plugin.statusbar;
+package com.cordova.plugin.transparent.statusbar;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
