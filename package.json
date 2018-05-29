@@ -1,0 +1,21 @@
+{
+    "name": "cordova-plugin-statusbar",
+    "version": "0.1.0",
+    "description": "",
+    "cordova": {
+        "id": "net.ekuwang.cordova.plugin.statusbar",
+        "platforms": [
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codextde/cordova-plugin-statusbar.git"
+    },
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0.0"
+    }],
+    "author": "",
+    "license": "MIT"
+}
