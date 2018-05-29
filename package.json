@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-statusbar",
+    "name": "cordova-plugin-transparent-statusbar",
     "version": "0.1.0",
     "description": "",
     "cordova": {
-        "id": "net.ekuwang.cordova.plugin.statusbar",
+        "id": "cordova-plugin-transparent-statusbar",
         "platforms": [
             "android"
         ]
